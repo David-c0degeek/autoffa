@@ -1,0 +1,7 @@
+## Interface: 11403
+## Version: 1.0.0
+## Title: Auto FFA
+## Notes: Sets FFA loot method automatically upon partying up
+## Author: David
+
+autoffa.lua
